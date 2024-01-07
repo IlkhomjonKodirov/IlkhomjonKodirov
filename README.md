@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam (Ilkhomjon Kodirov)</h1>
 <h3 align="center">I'm Full stack developer (MERN stack)</h3>
 
-- 🔭 I’m currently working on **MERN stack**
-
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **MERN stack**
-
 - 📫 How to reach me **adamdev1993@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
