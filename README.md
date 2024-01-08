@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam (Ilkhomjon Kodirov)</h1>
-<h3 align="center">I'm Full stack developer (MERN stack)</h3>
+<h3 align="center">I'm Full stack developer</h3>
 
 - 📫 How to reach me **adamdev1993@gmail.com**
 
